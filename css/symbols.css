@@ -1,0 +1,77 @@
+body{
+    background-color: blueviolet;
+}
+p{
+    font-size: 50px;
+}
+.p1{
+    background-color: forestgreen;
+    color: yellow;
+    text-align: center;
+}
+.p2{
+    font-family: Georgia, Times, "Times New Roman", serif;
+}
+.p3{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+.p4{
+    font-family: "Lucida Console", Courier, monospace;
+    font-weight: 700;
+}
+.p5{
+    font-family: cursive;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-underline-position: under;
+    text-decoration-color: blue;
+}
+.p6{
+    font-family: "Rubik Doodle Triangles", system-ui;
+    text-shadow: 0 0 15px green;
+}
+.p7{
+    font-family: "Rubik Glitch Pop", system-ui;
+    text-shadow: 2px 2px 15px green, 4px -4px violet;
+
+}
+.p8{
+    font-family: "Lobster", sans-serif;
+}
+.p9{
+    text-transform: uppercase;
+}
+
+.p10{
+    font-family: "Comforter Brush", cursive;
+    font-weight: 400;
+}
+
+.p11{
+    font-family: "Ruslan Display", sans-serif;
+    text-shadow: 2px 2px 15px darkblue, 4px -4px darkred;
+}
+
+.p12{
+    font-family: "Shantell Sans", cursive;
+    color: lightblue;
+}
+
+.p13{
+    font-family: "Poiret One", sans-serif; 
+    font-style: italic;
+    color: goldenrod;
+    text-shadow: 2px 2px 15px lightgreen, 4px -4px lightsalmon;
+}
+
+.p14{
+    font-family: "Caveat", cursive;
+    color: lightgreen;
+}
+
+.s1{
+    font-size: 1.5em;
+    color: purple;
+    font-family: "Rubik Burned", system-ui;
+}
